@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Furious Flower Project the 4th" ] },
+    "summary": { "en": [ "Furious Flower Decennial Conference 1994: Keynote Speeches * Poetry Readings, Part 1" ] },
+    "items": [
+    ]
+}
