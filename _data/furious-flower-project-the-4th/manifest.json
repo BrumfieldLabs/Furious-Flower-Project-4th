@@ -23,6 +23,14 @@
         "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3943,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/environment.json",
+            "label": "Environment"
+          }
+        ],
         "items": [
           {
             "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/paintings",
