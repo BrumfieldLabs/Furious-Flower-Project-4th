@@ -33,6 +33,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/genre.json",
             "label": "Genre"
           }

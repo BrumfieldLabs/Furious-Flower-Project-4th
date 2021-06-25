@@ -1,0 +1,659 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.637682,39.409143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40.816612,80.042905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81.070237,120.766488"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122.485024,124.557994"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "126.144445,128.068648"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.494989,183.958255"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "193.597415,201.090245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202.781153,221.311611"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "222.133857,226.086100"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "227.869295,244.341499"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "244.442247,246.588317"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "247.151626,251.110134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "252.640756,274.650000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.652385,368.337788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "370.022902,491.066072"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.488313,505.703754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "506.548235,606.921815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "616.316077,616.612342"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "624.212677,858.003769"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "868.535730,1175.647718"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1186.811597,1412.616844"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1426.799885,1613.004958"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1622.834789,1738.335296"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1752.448124,1830.665489"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1842.180433,1939.285115"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1957.259662,2061.526078"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2074.375070,2203.216062"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2211.079926,2419.542544"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rita Dove",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2429.723440,2603.009307"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2649.911641,2747.016323"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joanne V. Gabbin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/Furious-Flower-Project-4th/furious-flower-project-the-4th/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2759.514250,2788.512250"
+        }
+      }
+    }
+  ]
+}
